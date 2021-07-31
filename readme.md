@@ -1,6 +1,1 @@
-# hello
-
-# Hello
-
-# new branch
-
+# This is just a test repository I am using on Github to experiment with learning Git. Nothing cool to see here.   
